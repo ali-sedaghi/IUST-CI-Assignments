@@ -5,7 +5,7 @@ My solutions to IUST's Principles of Computational Intelligence assignments, Spr
 ## Outline
 
 - A1
-	- Perceptron with NumPy
+	- [Perceptron with NumPy](https://github.com/ali-sedaghi/Perceptron-NumPy)
 	- Binary classification with NumPy
 	- Madaline
 	- MLP classifier on MNIST with Keras
